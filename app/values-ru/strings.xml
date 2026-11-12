@@ -5,6 +5,7 @@
     <string name="Modules">Модули</string>
     <string name="Logs">Логи</string>
     <string name="Settings">Настройки</string>
+
     <string name="About">О приложении</string>
     <string name="module_repo">Репозиторий</string>
     <string name="about_send_bug_report">Отправить сообщение об ошибке</string>
